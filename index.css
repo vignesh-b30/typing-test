@@ -1,0 +1,65 @@
+*{
+    font-family: 'Roboto';
+}
+
+.bg-container{
+    background-color: rgb(181, 178, 237);
+    background-size: cover;
+    height: 100vh;
+}
+
+.speed-typing-test{
+    color: #17045e;
+    font-weight: bold;
+}
+
+
+
+.display-quotes-container{
+    background-color:  #d1ccf4;
+}
+
+.display-quotes{
+    font-size: 18px;
+}
+
+.input-quotes{
+    background-color: #e2e8f0;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.timer-text{
+    font-size: 25px;
+    padding-top: 11px;
+    padding-left: 8px;
+}
+
+.seconds{
+    font-size: 18px;
+    padding-top: 18px;
+    padding-left: 8px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.submit-button{
+    background-color: #17045e;
+    color: white;
+    height: 35px;
+    width: 85px;
+    border-radius: 5px;
+}
+
+.reset-button{
+    background-color: #d1ccf4;
+    color: #17045e;
+    height: 35px;
+    width: 85px;
+    border-radius: 5px;
+}
