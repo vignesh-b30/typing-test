@@ -48,7 +48,7 @@ function validate(){
     clearInterval(uniqueId);
     let time = timerEle.textContent;
     resultEle.textContent = "Test completed : You typed in " + time + " seconds";
-    resultEle.style.color = "black";
+    resultEle.style.color = "#028A0F";
   }
   else{
     resultEle.textContent = "Test failed : You typed incorrect";
